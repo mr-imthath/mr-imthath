@@ -7,10 +7,15 @@
 
 Highly motivated and self-taught cybersecurity professional with over 1 year of hands-on experience in security operations and blue team environments. Skilled in SIEM monitoring, Threat detection, Threat intelligence and incident response using tools like Wazuh, Splunk, and Suricata. Proficient in log analysis, Security monitoring and governance, EDR/XDR platforms, and vulnerability management. Familiar with industry frameworks such as MITRE ATT&CK and NIST. Passionate about reducing cyber risk through proactive monitoring, security automation, and contributing to a modern SOC team. 
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+## 👨‍💻 Cybersecurity Projects:
 
-- <b>Windows Event Log Monitoring & Threat Detection Lab</b>
+- **Windows Event Log Monitoring & Threat Detection Lab**
+
+  This project simulates adversary behavior in a Windows 10 lab to generate and analyze Windows Event Logs. It leverages Sysmon, PowerShell, and the MITRE ATT&CK framework to build detection rules and playbooks for real-world incident response scenarios.
+
   - [Windows Threat Detection Lab](https://github.com/mr-imthath/Windows-Threat-Detection-Lab/blob/main/README.md)
+
+
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
