@@ -27,7 +27,6 @@ Highly motivated and self-taught cybersecurity professional with over 1 year of 
 
 [linkedin]: https://www.linkedin.com/in/imthath-shafir/
 
-<!--
 **mr-imthath/mr-imthath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
