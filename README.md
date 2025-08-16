@@ -5,7 +5,7 @@
 
 ## Objective
 
-Highly motivated and self-taught cybersecurity professional with over 1 year of hands-on experience in security operations and blue team environments. Skilled in SIEM monitoring, Threat detection, Threat intelligence and incident response using tools like Wazuh, Splunk, and Suricata. Proficient in log analysis, Security monitoring and governance, EDR/XDR platforms, and vulnerability management. Familiar with industry frameworks such as MITRE ATT&CK and NIST. Passionate about reducing cyber risk through proactive monitoring, security automation, and contributing to a modern SOC team. 
+Highly motivated and self-taught cybersecurity professional with over 1 year of hands-on experience in security operations and blue team environments. Skilled in SIEM monitoring, Threat detection, Threat intelligence and incident response using tools like Wazuh, Splunk, and Suricata. Proficient in log analysis, Security monitoring and governance, EDR/XDR, and vulnerability management. Familiar with industry frameworks such as MITRE ATT&CK and NIST. Passionate about reducing cyber risk through proactive monitoring, security automation, and Eager to contribute to a 24/7 SOC team and protect critical infrastructure from evolving threats. 
 
 ## 👨‍💻 Cybersecurity Projects:
 
