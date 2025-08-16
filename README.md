@@ -26,9 +26,9 @@ Highly motivated and self-taught cybersecurity professional with over 1 year of 
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
+[twitter]: https://twitter.com/
+[youtube]: https://www.youtube.com/
+[instagram]: https://www.instagram.com/
 [linkedin]: https://www.linkedin.com/in/imthath-shafir/
 
 
