@@ -15,15 +15,6 @@ Highly motivated and self-taught cybersecurity professional with over 1 year of 
 
   - [Windows Threat Detection Lab](https://github.com/mr-imthath/Windows-Threat-Detection-Lab/blob/main/README.md)
  
-**Simulated SOC Home Lab for Threat Detection and Incident Response**
-
-**•	Built and configured a virtual SOC lab environment in VirtualBox using Windows 10, Ubuntu, Kali Linux, and intentionally vulnerable machines to simulate real-world enterprise infrastructure for hands-on offensive and defensive security practice.
-**•	Deployed and integrated Splunk and Wazuh for centralized log collection, SIEM correlation, and real-time threat detection.
-**•	Conducted adversary simulations using Kali Linux tools, including credential dumping (Mimikatz), network scanning (Nmap), and malicious PowerShell execution (Metasploit), and validated detections using Sysmon logs and MITRE ATT&CK mappings.
-**•	Created detection rules, triaged alerts, and performed log analysis and incident response, emulating Tier 1 SOC Analyst responsibilities.
-
-
-
 
 
 <h2> 🤳 Connect with me:</h2>
