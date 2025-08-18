@@ -15,7 +15,7 @@ Highly motivated and self-taught cybersecurity professional with over 1 year of 
 
   - [Windows Threat Detection Lab](https://github.com/mr-imthath/Windows-Threat-Detection-Lab/blob/main/README.md)
  
-- **Windows Event Log Monitoring & Threat Detection Lab**
+- **Simulated SOC Home Lab for Threat Detection and Incident Response**
  
 
 
