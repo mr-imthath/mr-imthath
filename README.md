@@ -17,7 +17,7 @@ Highly motivated and self-taught cybersecurity professional with over 1 year of 
  
 - **Simulated SOC Home Lab for Threat Detection and Incident Response**
 
-  - [SOC Home Lab]
+  - [SOC Home Lab](https://github.com/mr-imthath/SOC-Home-Lab/blob/main/README.md)
 
     
 <h2> 🤳 Connect with me:</h2>
