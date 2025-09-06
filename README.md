@@ -18,6 +18,10 @@ Highly motivated and self-taught cybersecurity professional with over 1 year of 
 - **Simulated SOC Home Lab for Threat Detection and Incident Response**
 
   - [SOC Home Lab](https://github.com/mr-imthath/SOC-Home-Lab/blob/main/README.md)
+ 
+- **Intrusion Detection Systems (IDS) vs Intrusion Prevention Systems (IPS)**
+
+  - [IDS/IPS](https://github.com/mr-imthath/Intrusion-Detection-Systems-IDS-vs-Intrusion-Prevention-Systems-IPS-) 
 
     
 <h2> 🤳 Connect with me:</h2>
